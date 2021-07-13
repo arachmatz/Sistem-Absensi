@@ -1,0 +1,17 @@
+{  
+    "App":{
+        "App_name" : "Sistem Absensi | ",
+        "App_server" : "/Sistem_Absensi/",
+        "App_import" : "/Sistem_Absensi/asset/",
+        "App_files" : "/Sistem_Absensi/files/"
+    },
+    
+    "Database":{
+        "DB_driver": "mysql",
+        "DB_name" : "sistem_absensi",
+        "DB_port" : 3306,
+        "DB_host" :"localhost",
+        "DB_user" :"root",
+        "DB_password" :""
+    }
+}
